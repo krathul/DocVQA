@@ -1,0 +1,4 @@
+path:
+  saveImage: ./Images
+tesseract:
+  path: /opt/homebrew/bin/tesseract
